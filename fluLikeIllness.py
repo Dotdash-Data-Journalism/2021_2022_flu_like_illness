@@ -100,5 +100,5 @@ latestWeekendDate = datetime.strptime(latestWeekendDateStr, '%Y-%m-%d')
 runDay = date.today()
 
 
-updateChart('Es48H', finalData, runDay, latestWeekendDate, ACCESS_TOKEN)
+updateChart('pw8yq', finalData, runDay, latestWeekendDate, ACCESS_TOKEN)
 
