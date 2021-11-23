@@ -1,0 +1,60 @@
+stateid,statename,statefips,stateabbr,url,statewebsitename,statefluphonenum,statehealthdeptname
+1,Alabama,01        ,AL ,http://adph.org/influenza/,Influenza Surveillance,334-206-5300,Alabama Department of Public Health
+2,Alaska,02        ,AK ,http://dhss.alaska.gov/dph/Epi/id/Pages/influenza/influenza.aspx ,Influenza Surveillance Report,907-269-8000,State of Alaska Health and Social Services
+3,Arizona,04        ,AZ ,http://www.azdhs.gov/phs/oids/epi/flu/index.htm,Influenza & RSV Surveillance,602-542-1025,Arizona Department of Health Services
+4,Arkansas,05        ,AR ,http://www.healthy.arkansas.gov/programs-services/topics/influenza,Communicable Disease and Immunizations,501-661-2000,Arkansas Department of Health
+5,California,06        ,CA ,https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/Influenza.aspx,Influenza (Flu),916-558-1784,California Department of Public Health
+6,Colorado,08        ,CO ,https://www.colorado.gov/pacific/cdphe/influenza,Influenza Surveillance,303-692-2000,Colorado Department of Public Health and Environment
+7,Connecticut,09        ,CT ,https://portal.ct.gov/DPH/Epidemiology-and-Emerging-Infections/Influenza-Surveillance-and-Statistics,Flu Statistics,860-509-8000,Connecticut Department of Public Health
+8,Delaware,10        ,DE ,http://dhss.delaware.gov/dhss/dph/epi/influenzawkly.html,Weekly Influenza Surveillance Reports,302-744-4700,Delaware Health and Social Services
+9,District of Columbia,11        ,DC ,https://dchealth.dc.gov/node/114982,Influenza Information,202-442-5955,District of Columbia Department of Health
+10,Florida,12        ,FL ,http://www.floridahealth.gov/diseases-and-conditions/influenza/index.html ,Weekly Influenza Surveillance Reports,850-245-4300,Florida Department of Health
+11,Georgia,13        ,GA ,https://dph.georgia.gov/epidemiology/influenza/flu-activity-georgia,Weekly Influenza Surveillance in Georgia,404-657-2700,Georgia Department of Public Health
+12,Hawaii,15        ,HI ,http://health.hawaii.gov/docd/resources/reports/influenza-reports/,Hawaii's Influenza Surveillance Program,808-586-4400,Hawaii State Department of Health
+13,Idaho,16        ,ID ,http://flu.idaho.gov,Influenza,208-334-5500,Idaho Department of Health and Welfare
+14,Illinois,17        ,IL ,http://www.dph.illinois.gov/topics-services/diseases-and-conditions/influenza/influenza-surveillance,Seasonal Influenza Surveillance Reports,217-782-7860,Illinois Department of Public Health
+15,Indiana,18        ,IN ,http://www.in.gov/isdh/22104.htm,Influenza in Indiana,317-233-1325,Indiana State Department of Health
+16,Iowa,19        ,IA ,http://idph.iowa.gov/influenza/surveillance,Iowa Influenza Surveillance Network,515-281-7689,Iowa Department of Public Health
+17,Kansas,20        ,KS ,http://www.kdheks.gov/flu/surveillance.htm,Influenza Information,785-296-1500,Kansas Department of Health and Environment
+18,Kentucky,21        ,KY ,https://chfs.ky.gov/agencies/dph/dehp/Pages/influenza.aspx,Influenza - Flu,502-564-3970,Kentucky Cabinet for Health and Family Services
+19,Louisiana,22        ,LA ,http://new.dhh.louisiana.gov/index.cfm/page/1591,Influenza,504-219-4563,Louisiana Department of Health and Hospitals
+20,Maine,23        ,ME ,http://www.maine.gov/dhhs/mecdc/infectious-disease/epi/influenza/influenza-surveillance-weekly-updates.shtml,Weekly Surveillance Updates,207-287-8016,Maine Center for Disease Control and Prevention
+21,Maryland,24        ,MD ,https://phpa.health.maryland.gov/influenza/fluwatch,Influenza Surveillance,410-767-6742,Maryland Department of Health and Mental Hygiene
+22,Massachusetts,25        ,MA ,https://www.mass.gov/influenza,Influenza Surveillance Data,866-627-7968,Massachusetts Department of Public Health
+23,Michigan,26        ,MI ,http://www.michigan.gov/mdch/0%2c1607%2c7-132-2940_2955_22779_40563_48357-191722--%2c00.html,Influenza Activity and Surveillance,517-373-3740,Michigan Department of Community Health
+24,Minnesota,27        ,MN ,http://www.health.state.mn.us/divs/idepc/diseases/flu/stats/index.html,Weekly Influenza Activity: Statistics,651-201-5000,Minnesota Department of Health
+25,Mississippi,28        ,MS ,http://www.msdh.state.ms.us/msdhsite/_static/14%2c0%2c199%2c230.html,Mississippi Flu Surveillance and Influenza-Like Illness Reports,866-458-4948,Mississippi State Department of Health
+26,Missouri,29        ,MO ,http://health.mo.gov/living/healthcondiseases/communicable/influenza/reports.php,Influenza Data & Statistical Reports ,573-751-6400,State of Missouri Department of Health and Senior Services
+27,Montana,30        ,MT ,https://dphhs.mt.gov/publichealth/cdepi/diseases/influenza/index,Influenza: What You Need to Know,406-444-5622,Montana Department of Public Health and Human Services
+28,Nebraska,31        ,NE ,http://dhhs.ne.gov/Pages/Flu.aspx ,Weekly Flu Report,402-471-3121,Nebraska Department of Health and Human Services
+29,Nevada,32        ,NV ,http://dpbh.nv.gov/Programs/Flu/Influenza/ ,"Influenza (Flu): Surveillance, News Releases and Brochures",775-684-4200,Nevada Department of Health and Human Services
+30,New Hampshire,33        ,NH ,http://www.dhhs.nh.gov/dphs/cdcs/influenza/activity.htm,Influenza Control and Surveillance,603-271-4501,New Hampshire Department of Health and Senior Services
+31,New Jersey,34        ,NJ ,http://www.nj.gov/health/cd/topics/flu.shtml,Seasonal Influenza - Surveillance,609-292-7837,New Jersey Department of Health
+32,New Mexico,35        ,NM ,https://nmhealth.org/about/erd/ideb/isp/,Flu in New Mexico,505-827-2613,New Mexico Department of Health
+33,New York,36        ,NY ,http://www.health.ny.gov/diseases/communicable/influenza/surveillance/,"Influenza Activity, Surveillance and Reports",866-881-2809,New York State Department of Health
+34,North Carolina,37        ,NC ,http://www.flu.nc.gov/ ,North Carolina Influenza Update,919-707-5000,North Carolina Division of Public Health
+35,North Dakota,38        ,ND ,http://www.ndflu.com/default.aspx,Influenza,701-328-2378,North Dakota Department of Health
+36,Ohio,39        ,OH ,http://www.flu.ohio.gov ,Influenza Information,866-800-1404,Ohio Department of Health
+37,Oklahoma,40        ,OK ,https://www.ok.gov/health/Prevention_and_Preparedness/Acute_Disease_Service/Disease_Information/OK_Flu_View.html,Influenza Information,405-271-5600,Oklahoma State Department of Health
+38,Oregon,41        ,OR ,http://public.health.oregon.gov/DiseasesConditions/CommunicableDisease/DiseaseSurveillanceData/Influenza/Pages/surveil.aspx,Influenza Disease Surveillance Data,800-978-3040,Oregon Public Health Division
+39,Pennsylvania,42        ,PA ,https://www.health.pa.gov/topics/disease/Flu/Pages/Flu.aspx ,Influenza Weekly Report ,877-724-3258,Pennsylvania Department of Health
+40,Rhode Island,44        ,RI ,http://www.health.ri.gov/data/flu/index.php,Influenza Surveillance,401-222-5960,State of Rhode Island Department of Health
+41,South Carolina,45        ,SC ,http://www.scdhec.gov/Health/DiseasesandConditions/InfectiousDiseases/Flu/FluData/,Influenza Activity and Surveillance,803-898-3432,South Carolina Department of Health and Environmental Control
+42,South Dakota,46        ,SD ,https://doh.sd.gov/diseases/infectious/flu/surveillance.aspx,Influenza Information,606-773-3361,South Dakota Department of Health
+43,Tennessee,47        ,TN ,http://www.tn.gov/health/cedep/immunization-program/ip/flu-in-tennessee.html,Influenza-Like Illness Surveillance Summary Archive,615-741-3111,Tennessee Department of Health
+44,Texas,48        ,TX ,http://www.dshs.state.tx.us/idcu/disease/influenza/surveillance/,Influenza Surveillance,512-458-7111,Texas Department of State Health Services
+45,Utah,49        ,UT ,http://health.utah.gov/epi/diseases/influenza/surveillance/index.html,Seasonal Influenza Weekly Update,801-538-6101,Utah Department of Health
+46,Vermont,50        ,VT ,http://www.healthvermont.gov/immunizations-infectious-disease/influenza/flu-activity-and-surveillance,Flu Activity,802-863-7200,Vermont Department of Health
+47,Virginia,51        ,VA ,http://www.vdh.virginia.gov/epidemiology/influenza-flu-in-virginia/influenza-surveillance/,Virginia Weekly Influenza Activity Report,804-864-8141,Virginia Department of Health
+48,Washington,53        ,WA ,http://www.doh.wa.gov/DataandStatisticalReports/DiseasesandChronicConditions/CommunicableDiseaseSurveillanceData/InfluenzaSurveillanceData,Influenza Update,206-418-5500,Washington State Department of Health
+49,West Virginia,54        ,WV ,https://oeps.wv.gov/flu/pages/flu_data.aspx,Current Influenza Surveillance,304-558-5358,West Virginia Bureau for Public Health
+50,Wisconsin,55        ,WI ,http://www.dhs.wisconsin.gov/communicable/influenza/index.htm,Tracking Influenza in Wisconsin,608-266-1865,Wisconsin Department of Health Services
+51,Wyoming,56        ,WY ,https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/influenza/,Influenza,866-571-0944,Wyoming Department of Health
+52,American Samoa,60        ,AS ,,,,
+53,Guam,66        ,GU ,,,,
+54,Commonwealth of the Northern Mariana Islands,69        ,MP ,,,,
+55,Puerto Rico,72        ,PR ,https://www.salud.gov.pr/CMS/92,Puerto Rico Departamento de Salud,787-765-2929,Puerto Rico Departamento de Salud
+56,Virgin Islands,78        ,VI ,https://doh.vi.gov/resources/influenza-flu,Influenza,340-773-1311,United States Virgin Islands Department of Health
+57,Republic of Palau,80        ,PAL,,,,
+58,New York City,57        ,NYC,http://www1.nyc.gov/site/doh/providers/health-topics/flu-alerts.page,Surveillance Data,212-788-4219,New York City Department of Health and Mental Hygiene
+59,Los Angeles,91        ,LAX,,,,
