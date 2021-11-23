@@ -31,7 +31,14 @@ def updateChart(dw_chart_id, dataSet, updateDate, weekendDate, dw_api_key):
                                 url="https://api.datawrapper.de/v3/charts/" + dw_chart_id, 
                                 json={"metadata": {
                                         "annotate": {
-                                            "notes": "Updated " + str(updateDate.strftime('%B %d, %Y')) + " (data reported for the week ending " + str(weekendDate.strftime('%B %d, %Y')) +  ")."
+                                            "notes": f'''Updated 
+                                            {str(updateDate.strftime('%B %d, %Y'))} 
+                                            (data reported for the week ending 
+                                            {str(weekendDate.strftime('%B %d, %Y'))}). 
+                                            Note: Due to COVID-19, the CDC has suspended data 
+                                            collection and assessment of the geographic spread 
+                                            of flu cases in the U.S.during the 2020-2021 
+                                            flu season.'''
                                     }
                                 }},
                                 headers=headers)
@@ -91,7 +98,7 @@ stateDatesBusLeg = pd.merge(stateDatesBus, legend, left_on='iliactivityid', righ
 stateDatesBusLeg.astype({'stateid': 'int64'})
 stateDatesBusLegFilter = stateDatesBusLeg[stateDatesBusLeg['stateid'] <= 51]
 
-finalData = stateDatesBusLegFilter[['statename', 'stateid', 'statefips', 'ili_activity_label', 'legend', 'weekend']]
+finalData = stateDatesBusLegFilter[['statename', 'stateid', 'statefips', 'iliactivityid', 'ili_activity_label', 'legend', 'weekend']]
 
 finalData.to_csv('latestILIData.csv', index=None)
 latestWeekendDateStr = finalData['weekend'][0]
