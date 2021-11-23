@@ -25,7 +25,7 @@ jobs:
           pipenv install
           
       - name: execute py script 
-        run: pipenv run python worldMarketIndicesUpdate.py
+        run: pipenv run python fluLikeIllness.py
         env: 
           DW_API_KEY: ${{ secrets.DW_API_KEY }}
         
