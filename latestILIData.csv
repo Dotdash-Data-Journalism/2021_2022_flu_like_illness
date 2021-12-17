@@ -1,52 +1,52 @@
 statename,stateid,statefips,iliactivityid,ili_activity_label,legend,weekend
-Alabama,1,01        ,4.0,Level 4,Low,2021-12-04
-Alaska,2,02        ,1.0,Level 1,Minimal,2021-12-04
-Arizona,3,04        ,2.0,Level 2,Minimal,2021-12-04
-Arkansas,4,05        ,5.0,Level 5,Low,2021-12-04
-California,5,06        ,2.0,Level 2,Minimal,2021-12-04
-Colorado,6,08        ,3.0,Level 3,Minimal,2021-12-04
-Connecticut,7,09        ,4.0,Level 4,Low,2021-12-04
-Delaware,8,10        ,3.0,Level 3,Minimal,2021-12-04
-District of Columbia,9,11        ,0.0,Level 0,Insufficient Data,2021-12-04
-Florida,10,12        ,5.0,Level 5,Low,2021-12-04
-Georgia,11,13        ,6.0,Level 6,Moderate,2021-12-04
-Hawaii,12,15        ,1.0,Level 1,Minimal,2021-12-04
-Idaho,13,16        ,3.0,Level 3,Minimal,2021-12-04
-Illinois,14,17        ,1.0,Level 1,Minimal,2021-12-04
-Indiana,15,18        ,4.0,Level 4,Low,2021-12-04
-Iowa,16,19        ,3.0,Level 3,Minimal,2021-12-04
-Kansas,17,20        ,6.0,Level 6,Moderate,2021-12-04
-Kentucky,18,21        ,5.0,Level 5,Low,2021-12-04
-Louisiana,19,22        ,1.0,Level 1,Minimal,2021-12-04
-Maine,20,23        ,3.0,Level 3,Minimal,2021-12-04
-Maryland,21,24        ,4.0,Level 4,Low,2021-12-04
-Massachusetts,22,25        ,5.0,Level 5,Low,2021-12-04
-Michigan,23,26        ,2.0,Level 2,Minimal,2021-12-04
-Minnesota,24,27        ,1.0,Level 1,Minimal,2021-12-04
-Mississippi,25,28        ,5.0,Level 5,Low,2021-12-04
-Missouri,26,29        ,6.0,Level 6,Moderate,2021-12-04
-Montana,27,30        ,2.0,Level 2,Minimal,2021-12-04
-Nebraska,28,31        ,5.0,Level 5,Low,2021-12-04
-Nevada,29,32        ,3.0,Level 3,Minimal,2021-12-04
-New Hampshire,30,33        ,1.0,Level 1,Minimal,2021-12-04
-New Jersey,31,34        ,7.0,Level 7,Moderate,2021-12-04
-New Mexico,32,35        ,10.0,Level 10,High,2021-12-04
-New York,33,36        ,6.0,Level 6,Moderate,2021-12-04
-North Carolina,34,37        ,4.0,Level 4,Low,2021-12-04
-North Dakota,35,38        ,2.0,Level 2,Minimal,2021-12-04
-Ohio,36,39        ,3.0,Level 3,Minimal,2021-12-04
-Oklahoma,37,40        ,3.0,Level 3,Minimal,2021-12-04
-Oregon,38,41        ,2.0,Level 2,Minimal,2021-12-04
-Pennsylvania,39,42        ,4.0,Level 4,Low,2021-12-04
-Rhode Island,40,44        ,3.0,Level 3,Minimal,2021-12-04
-South Carolina,41,45        ,6.0,Level 6,Moderate,2021-12-04
-South Dakota,42,46        ,2.0,Level 2,Minimal,2021-12-04
-Tennessee,43,47        ,4.0,Level 4,Low,2021-12-04
-Texas,44,48        ,3.0,Level 3,Minimal,2021-12-04
-Utah,45,49        ,4.0,Level 4,Low,2021-12-04
-Vermont,46,50        ,2.0,Level 2,Minimal,2021-12-04
-Virginia,47,51        ,5.0,Level 5,Low,2021-12-04
-Washington,48,53        ,2.0,Level 2,Minimal,2021-12-04
-West Virginia,49,54        ,2.0,Level 2,Minimal,2021-12-04
-Wisconsin,50,55        ,3.0,Level 3,Minimal,2021-12-04
-Wyoming,51,56        ,1.0,Level 1,Minimal,2021-12-04
+Alabama,1,01        ,5.0,Level 5,Low,2021-12-11
+Alaska,2,02        ,1.0,Level 1,Minimal,2021-12-11
+Arizona,3,04        ,5.0,Level 5,Low,2021-12-11
+Arkansas,4,05        ,6.0,Level 6,Moderate,2021-12-11
+California,5,06        ,2.0,Level 2,Minimal,2021-12-11
+Colorado,6,08        ,3.0,Level 3,Minimal,2021-12-11
+Connecticut,7,09        ,4.0,Level 4,Low,2021-12-11
+Delaware,8,10        ,5.0,Level 5,Low,2021-12-11
+District of Columbia,9,11        ,0.0,Level 0,Insufficient Data,2021-12-11
+Florida,10,12        ,5.0,Level 5,Low,2021-12-11
+Georgia,11,13        ,7.0,Level 7,Moderate,2021-12-11
+Hawaii,12,15        ,2.0,Level 2,Minimal,2021-12-11
+Idaho,13,16        ,3.0,Level 3,Minimal,2021-12-11
+Illinois,14,17        ,2.0,Level 2,Minimal,2021-12-11
+Indiana,15,18        ,5.0,Level 5,Low,2021-12-11
+Iowa,16,19        ,6.0,Level 6,Moderate,2021-12-11
+Kansas,17,20        ,4.0,Level 4,Low,2021-12-11
+Kentucky,18,21        ,4.0,Level 4,Low,2021-12-11
+Louisiana,19,22        ,1.0,Level 1,Minimal,2021-12-11
+Maine,20,23        ,2.0,Level 2,Minimal,2021-12-11
+Maryland,21,24        ,6.0,Level 6,Moderate,2021-12-11
+Massachusetts,22,25        ,6.0,Level 6,Moderate,2021-12-11
+Michigan,23,26        ,2.0,Level 2,Minimal,2021-12-11
+Minnesota,24,27        ,1.0,Level 1,Minimal,2021-12-11
+Mississippi,25,28        ,5.0,Level 5,Low,2021-12-11
+Missouri,26,29        ,5.0,Level 5,Low,2021-12-11
+Montana,27,30        ,2.0,Level 2,Minimal,2021-12-11
+Nebraska,28,31        ,5.0,Level 5,Low,2021-12-11
+Nevada,29,32        ,3.0,Level 3,Minimal,2021-12-11
+New Hampshire,30,33        ,5.0,Level 5,Low,2021-12-11
+New Jersey,31,34        ,8.0,Level 8,High,2021-12-11
+New Mexico,32,35        ,10.0,Level 10,High,2021-12-11
+New York,33,36        ,6.0,Level 6,Moderate,2021-12-11
+North Carolina,34,37        ,4.0,Level 4,Low,2021-12-11
+North Dakota,35,38        ,5.0,Level 5,Low,2021-12-11
+Ohio,36,39        ,4.0,Level 4,Low,2021-12-11
+Oklahoma,37,40        ,3.0,Level 3,Minimal,2021-12-11
+Oregon,38,41        ,2.0,Level 2,Minimal,2021-12-11
+Pennsylvania,39,42        ,4.0,Level 4,Low,2021-12-11
+Rhode Island,40,44        ,4.0,Level 4,Low,2021-12-11
+South Carolina,41,45        ,6.0,Level 6,Moderate,2021-12-11
+South Dakota,42,46        ,3.0,Level 3,Minimal,2021-12-11
+Tennessee,43,47        ,6.0,Level 6,Moderate,2021-12-11
+Texas,44,48        ,6.0,Level 6,Moderate,2021-12-11
+Utah,45,49        ,4.0,Level 4,Low,2021-12-11
+Vermont,46,50        ,3.0,Level 3,Minimal,2021-12-11
+Virginia,47,51        ,6.0,Level 6,Moderate,2021-12-11
+Washington,48,53        ,2.0,Level 2,Minimal,2021-12-11
+West Virginia,49,54        ,1.0,Level 1,Minimal,2021-12-11
+Wisconsin,50,55        ,3.0,Level 3,Minimal,2021-12-11
+Wyoming,51,56        ,2.0,Level 2,Minimal,2021-12-11
