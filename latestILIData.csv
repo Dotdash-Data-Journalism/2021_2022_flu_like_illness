@@ -1,52 +1,52 @@
 statename,stateid,statefips,iliactivityid,ili_activity_label,legend,weekend
-Alabama,1,01        ,8.0,Level 8,High,2022-10-15
-Alaska,2,02        ,1.0,Level 1,Minimal,2022-10-15
-Arizona,3,04        ,1.0,Level 1,Minimal,2022-10-15
-Arkansas,4,05        ,5.0,Level 5,Low,2022-10-15
-California,5,06        ,4.0,Level 4,Low,2022-10-15
-Colorado,6,08        ,4.0,Level 4,Low,2022-10-15
-Connecticut,7,09        ,4.0,Level 4,Low,2022-10-15
-Delaware,8,10        ,2.0,Level 2,Minimal,2022-10-15
-District of Columbia,9,11        ,11.0,Level 11,Very High,2022-10-15
-Florida,10,12        ,3.0,Level 3,Minimal,2022-10-15
-Georgia,11,13        ,10.0,Level 10,High,2022-10-15
-Hawaii,12,15        ,6.0,Level 6,Moderate,2022-10-15
-Idaho,13,16        ,1.0,Level 1,Minimal,2022-10-15
-Illinois,14,17        ,5.0,Level 5,Low,2022-10-15
-Indiana,15,18        ,5.0,Level 5,Low,2022-10-15
-Iowa,16,19        ,1.0,Level 1,Minimal,2022-10-15
-Kansas,17,20        ,5.0,Level 5,Low,2022-10-15
-Kentucky,18,21        ,4.0,Level 4,Low,2022-10-15
-Louisiana,19,22        ,8.0,Level 8,High,2022-10-15
-Maine,20,23        ,2.0,Level 2,Minimal,2022-10-15
-Maryland,21,24        ,6.0,Level 6,Moderate,2022-10-15
-Massachusetts,22,25        ,3.0,Level 3,Minimal,2022-10-15
-Michigan,23,26        ,1.0,Level 1,Minimal,2022-10-15
-Minnesota,24,27        ,1.0,Level 1,Minimal,2022-10-15
-Mississippi,25,28        ,6.0,Level 6,Moderate,2022-10-15
-Missouri,26,29        ,3.0,Level 3,Minimal,2022-10-15
-Montana,27,30        ,1.0,Level 1,Minimal,2022-10-15
-Nebraska,28,31        ,5.0,Level 5,Low,2022-10-15
-Nevada,29,32        ,1.0,Level 1,Minimal,2022-10-15
-New Hampshire,30,33        ,1.0,Level 1,Minimal,2022-10-15
-New Jersey,31,34        ,6.0,Level 6,Moderate,2022-10-15
-New Mexico,32,35        ,6.0,Level 6,Moderate,2022-10-15
-New York,33,36        ,10.0,Level 10,High,2022-10-15
-North Carolina,34,37        ,6.0,Level 6,Moderate,2022-10-15
-North Dakota,35,38        ,1.0,Level 1,Minimal,2022-10-15
-Ohio,36,39        ,2.0,Level 2,Minimal,2022-10-15
-Oklahoma,37,40        ,2.0,Level 2,Minimal,2022-10-15
-Oregon,38,41        ,1.0,Level 1,Minimal,2022-10-15
-Pennsylvania,39,42        ,3.0,Level 3,Minimal,2022-10-15
-Rhode Island,40,44        ,1.0,Level 1,Minimal,2022-10-15
-South Carolina,41,45        ,10.0,Level 10,High,2022-10-15
-South Dakota,42,46        ,1.0,Level 1,Minimal,2022-10-15
-Tennessee,43,47        ,10.0,Level 10,High,2022-10-15
-Texas,44,48        ,10.0,Level 10,High,2022-10-15
-Utah,45,49        ,2.0,Level 2,Minimal,2022-10-15
-Vermont,46,50        ,1.0,Level 1,Minimal,2022-10-15
-Virginia,47,51        ,7.0,Level 7,Moderate,2022-10-15
-Washington,48,53        ,1.0,Level 1,Minimal,2022-10-15
-West Virginia,49,54        ,1.0,Level 1,Minimal,2022-10-15
-Wisconsin,50,55        ,3.0,Level 3,Minimal,2022-10-15
-Wyoming,51,56        ,1.0,Level 1,Minimal,2022-10-15
+Alabama,1,01        ,10.0,Level 10,High,2022-10-22
+Alaska,2,02        ,1.0,Level 1,Minimal,2022-10-22
+Arizona,3,04        ,1.0,Level 1,Minimal,2022-10-22
+Arkansas,4,05        ,5.0,Level 5,Low,2022-10-22
+California,5,06        ,5.0,Level 5,Low,2022-10-22
+Colorado,6,08        ,4.0,Level 4,Low,2022-10-22
+Connecticut,7,09        ,5.0,Level 5,Low,2022-10-22
+Delaware,8,10        ,2.0,Level 2,Minimal,2022-10-22
+District of Columbia,9,11        ,12.0,Level 12,Very High,2022-10-22
+Florida,10,12        ,5.0,Level 5,Low,2022-10-22
+Georgia,11,13        ,10.0,Level 10,High,2022-10-22
+Hawaii,12,15        ,5.0,Level 5,Low,2022-10-22
+Idaho,13,16        ,1.0,Level 1,Minimal,2022-10-22
+Illinois,14,17        ,4.0,Level 4,Low,2022-10-22
+Indiana,15,18        ,5.0,Level 5,Low,2022-10-22
+Iowa,16,19        ,1.0,Level 1,Minimal,2022-10-22
+Kansas,17,20        ,2.0,Level 2,Minimal,2022-10-22
+Kentucky,18,21        ,5.0,Level 5,Low,2022-10-22
+Louisiana,19,22        ,9.0,Level 9,High,2022-10-22
+Maine,20,23        ,2.0,Level 2,Minimal,2022-10-22
+Maryland,21,24        ,9.0,Level 9,High,2022-10-22
+Massachusetts,22,25        ,3.0,Level 3,Minimal,2022-10-22
+Michigan,23,26        ,2.0,Level 2,Minimal,2022-10-22
+Minnesota,24,27        ,1.0,Level 1,Minimal,2022-10-22
+Mississippi,25,28        ,10.0,Level 10,High,2022-10-22
+Missouri,26,29        ,4.0,Level 4,Low,2022-10-22
+Montana,27,30        ,1.0,Level 1,Minimal,2022-10-22
+Nebraska,28,31        ,5.0,Level 5,Low,2022-10-22
+Nevada,29,32        ,2.0,Level 2,Minimal,2022-10-22
+New Hampshire,30,33        ,1.0,Level 1,Minimal,2022-10-22
+New Jersey,31,34        ,8.0,Level 8,High,2022-10-22
+New Mexico,32,35        ,7.0,Level 7,Moderate,2022-10-22
+New York,33,36        ,5.0,Level 5,Low,2022-10-22
+North Carolina,34,37        ,8.0,Level 8,High,2022-10-22
+North Dakota,35,38        ,1.0,Level 1,Minimal,2022-10-22
+Ohio,36,39        ,3.0,Level 3,Minimal,2022-10-22
+Oklahoma,37,40        ,2.0,Level 2,Minimal,2022-10-22
+Oregon,38,41        ,1.0,Level 1,Minimal,2022-10-22
+Pennsylvania,39,42        ,4.0,Level 4,Low,2022-10-22
+Rhode Island,40,44        ,1.0,Level 1,Minimal,2022-10-22
+South Carolina,41,45        ,11.0,Level 11,Very High,2022-10-22
+South Dakota,42,46        ,1.0,Level 1,Minimal,2022-10-22
+Tennessee,43,47        ,10.0,Level 10,High,2022-10-22
+Texas,44,48        ,10.0,Level 10,High,2022-10-22
+Utah,45,49        ,2.0,Level 2,Minimal,2022-10-22
+Vermont,46,50        ,1.0,Level 1,Minimal,2022-10-22
+Virginia,47,51        ,10.0,Level 10,High,2022-10-22
+Washington,48,53        ,1.0,Level 1,Minimal,2022-10-22
+West Virginia,49,54        ,3.0,Level 3,Minimal,2022-10-22
+Wisconsin,50,55        ,4.0,Level 4,Low,2022-10-22
+Wyoming,51,56        ,1.0,Level 1,Minimal,2022-10-22
