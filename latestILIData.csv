@@ -1,52 +1,52 @@
 statename,stateid,statefips,iliactivityid,ili_activity_label,legend,weekend
-Alabama,1,01        ,10.0,Level 10,High,2024-02-10
-Alaska,2,02        ,2.0,Level 2,Minimal,2024-02-10
-Arizona,3,04        ,4.0,Level 4,Low,2024-02-10
-Arkansas,4,05        ,11.0,Level 11,Very High,2024-02-10
-California,5,06        ,6.0,Level 6,Moderate,2024-02-10
-Colorado,6,08        ,9.0,Level 9,High,2024-02-10
-Connecticut,7,09        ,6.0,Level 6,Moderate,2024-02-10
-Delaware,8,10        ,1.0,Level 1,Minimal,2024-02-10
-District of Columbia,9,11        ,11.0,Level 11,Very High,2024-02-10
-Florida,10,12        ,8.0,Level 8,High,2024-02-10
-Georgia,11,13        ,10.0,Level 10,High,2024-02-10
-Hawaii,12,15        ,4.0,Level 4,Low,2024-02-10
-Idaho,13,16        ,6.0,Level 6,Moderate,2024-02-10
-Illinois,14,17        ,5.0,Level 5,Low,2024-02-10
-Indiana,15,18        ,9.0,Level 9,High,2024-02-10
-Iowa,16,19        ,10.0,Level 10,High,2024-02-10
-Kansas,17,20        ,7.0,Level 7,Moderate,2024-02-10
-Kentucky,18,21        ,9.0,Level 9,High,2024-02-10
-Louisiana,19,22        ,10.0,Level 10,High,2024-02-10
-Maine,20,23        ,7.0,Level 7,Moderate,2024-02-10
-Maryland,21,24        ,6.0,Level 6,Moderate,2024-02-10
-Massachusetts,22,25        ,10.0,Level 10,High,2024-02-10
-Michigan,23,26        ,10.0,Level 10,High,2024-02-10
-Minnesota,24,27        ,4.0,Level 4,Low,2024-02-10
-Mississippi,25,28        ,9.0,Level 9,High,2024-02-10
-Missouri,26,29        ,6.0,Level 6,Moderate,2024-02-10
-Montana,27,30        ,5.0,Level 5,Low,2024-02-10
-Nebraska,28,31        ,10.0,Level 10,High,2024-02-10
-Nevada,29,32        ,2.0,Level 2,Minimal,2024-02-10
-New Hampshire,30,33        ,8.0,Level 8,High,2024-02-10
-New Jersey,31,34        ,10.0,Level 10,High,2024-02-10
-New Mexico,32,35        ,12.0,Level 12,Very High,2024-02-10
-New York,33,36        ,4.0,Level 4,Low,2024-02-10
-North Carolina,34,37        ,8.0,Level 8,High,2024-02-10
-North Dakota,35,38        ,10.0,Level 10,High,2024-02-10
-Ohio,36,39        ,11.0,Level 11,Very High,2024-02-10
-Oklahoma,37,40        ,11.0,Level 11,Very High,2024-02-10
-Oregon,38,41        ,5.0,Level 5,Low,2024-02-10
-Pennsylvania,39,42        ,5.0,Level 5,Low,2024-02-10
-Rhode Island,40,44        ,7.0,Level 7,Moderate,2024-02-10
-South Carolina,41,45        ,11.0,Level 11,Very High,2024-02-10
-South Dakota,42,46        ,5.0,Level 5,Low,2024-02-10
-Tennessee,43,47        ,10.0,Level 10,High,2024-02-10
-Texas,44,48        ,11.0,Level 11,Very High,2024-02-10
-Utah,45,49        ,1.0,Level 1,Minimal,2024-02-10
-Vermont,46,50        ,3.0,Level 3,Minimal,2024-02-10
-Virginia,47,51        ,8.0,Level 8,High,2024-02-10
-Washington,48,53        ,4.0,Level 4,Low,2024-02-10
-West Virginia,49,54        ,7.0,Level 7,Moderate,2024-02-10
-Wisconsin,50,55        ,6.0,Level 6,Moderate,2024-02-10
-Wyoming,51,56        ,11.0,Level 11,Very High,2024-02-10
+Alabama,1,01        ,8.0,Level 8,High,2024-02-17
+Alaska,2,02        ,6.0,Level 6,Moderate,2024-02-17
+Arizona,3,04        ,6.0,Level 6,Moderate,2024-02-17
+Arkansas,4,05        ,11.0,Level 11,Very High,2024-02-17
+California,5,06        ,1.0,Level 1,Minimal,2024-02-17
+Colorado,6,08        ,8.0,Level 8,High,2024-02-17
+Connecticut,7,09        ,6.0,Level 6,Moderate,2024-02-17
+Delaware,8,10        ,2.0,Level 2,Minimal,2024-02-17
+District of Columbia,9,11        ,12.0,Level 12,Very High,2024-02-17
+Florida,10,12        ,6.0,Level 6,Moderate,2024-02-17
+Georgia,11,13        ,10.0,Level 10,High,2024-02-17
+Hawaii,12,15        ,3.0,Level 3,Minimal,2024-02-17
+Idaho,13,16        ,8.0,Level 8,High,2024-02-17
+Illinois,14,17        ,5.0,Level 5,Low,2024-02-17
+Indiana,15,18        ,9.0,Level 9,High,2024-02-17
+Iowa,16,19        ,10.0,Level 10,High,2024-02-17
+Kansas,17,20        ,7.0,Level 7,Moderate,2024-02-17
+Kentucky,18,21        ,9.0,Level 9,High,2024-02-17
+Louisiana,19,22        ,10.0,Level 10,High,2024-02-17
+Maine,20,23        ,8.0,Level 8,High,2024-02-17
+Maryland,21,24        ,6.0,Level 6,Moderate,2024-02-17
+Massachusetts,22,25        ,10.0,Level 10,High,2024-02-17
+Michigan,23,26        ,10.0,Level 10,High,2024-02-17
+Minnesota,24,27        ,4.0,Level 4,Low,2024-02-17
+Mississippi,25,28        ,7.0,Level 7,Moderate,2024-02-17
+Missouri,26,29        ,7.0,Level 7,Moderate,2024-02-17
+Montana,27,30        ,2.0,Level 2,Minimal,2024-02-17
+Nebraska,28,31        ,10.0,Level 10,High,2024-02-17
+Nevada,29,32        ,5.0,Level 5,Low,2024-02-17
+New Hampshire,30,33        ,8.0,Level 8,High,2024-02-17
+New Jersey,31,34        ,8.0,Level 8,High,2024-02-17
+New Mexico,32,35        ,11.0,Level 11,Very High,2024-02-17
+New York,33,36        ,5.0,Level 5,Low,2024-02-17
+North Carolina,34,37        ,7.0,Level 7,Moderate,2024-02-17
+North Dakota,35,38        ,10.0,Level 10,High,2024-02-17
+Ohio,36,39        ,12.0,Level 12,Very High,2024-02-17
+Oklahoma,37,40        ,11.0,Level 11,Very High,2024-02-17
+Oregon,38,41        ,5.0,Level 5,Low,2024-02-17
+Pennsylvania,39,42        ,5.0,Level 5,Low,2024-02-17
+Rhode Island,40,44        ,9.0,Level 9,High,2024-02-17
+South Carolina,41,45        ,10.0,Level 10,High,2024-02-17
+South Dakota,42,46        ,5.0,Level 5,Low,2024-02-17
+Tennessee,43,47        ,10.0,Level 10,High,2024-02-17
+Texas,44,48        ,10.0,Level 10,High,2024-02-17
+Utah,45,49        ,2.0,Level 2,Minimal,2024-02-17
+Vermont,46,50        ,2.0,Level 2,Minimal,2024-02-17
+Virginia,47,51        ,9.0,Level 9,High,2024-02-17
+Washington,48,53        ,4.0,Level 4,Low,2024-02-17
+West Virginia,49,54        ,7.0,Level 7,Moderate,2024-02-17
+Wisconsin,50,55        ,6.0,Level 6,Moderate,2024-02-17
+Wyoming,51,56        ,11.0,Level 11,Very High,2024-02-17
